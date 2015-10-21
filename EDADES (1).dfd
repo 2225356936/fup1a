@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Programa de rango de edades'
+4
+1
+15
+'dame la edad '
+5
+1
+4
+edad
+7
+0
+1
+9
+edad > 59
+7
+0
+1
+10
+edad  > 29
+7
+0
+1
+9
+edad > 19
+7
+0
+1
+8
+edad >13
+7
+0
+1
+8
+edad > 3
+4
+1
+14
+'Eres un bebé'
+13
+4
+1
+14
+'Eres un niño'
+13
+13
+4
+1
+15
+'Eres un joven'
+13
+13
+4
+1
+21
+'Eres un adolescente'
+13
+13
+4
+1
+16
+'Eres un adulto'
+13
+13
+4
+1
+17
+'Eres un anciano'
+13
+1

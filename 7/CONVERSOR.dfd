@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+13
+'convertidor'
+4
+1
+25
+'Megabytes a  trasformar'
+5
+1
+2
+MB
+6
+3
+4
+BITS
+10
+MB*8388608
+4
+BYTE
+10
+MB*1048576
+2
+KB
+7
+MB*1024
+6
+2
+2
+GB
+15
+MB*0.0009765625
+2
+TB
+15
+MB*0.0000009537
+4
+1
+23
+'LOS BITS SON'  ,  BITS
+4
+1
+24
+'LOS BYTES SON'  ,  BITS
+4
+1
+26
+'LOS KILOBYTES SON'  ,  KB
+4
+1
+26
+'LOS GIGABYTES SON'  ,  GB
+4
+1
+25
+'LOS TERABYTE SON'  ,  TB
+1
